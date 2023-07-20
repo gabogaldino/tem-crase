@@ -10,6 +10,7 @@ O projeto foi criado e é mantido por [Gabriel Nunes](https://github.com/gabrnun
 
 Pull requests são bem-vindas! :)
 
+![Logo_branca](https://github.com/gabogaldino/tem-crase/assets/66391286/ca69498c-2c3f-4faf-b984-b0d044f64009)
 
 ----
 
